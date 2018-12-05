@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Simple location tracker</string>
+
+    <!-- App actions -->
+    <string name="start">Start</string>
+    <string name="stop">STOP</string>
+
+    <!-- Location service status -->
+    <string name="location_service_status_un_available">Location service is unavailable in your device</string>
+    <string name="location_service_status_permission_denied">Please enable location services to allow GPS tracking</string>
+    <string name="location_service_status_started">GPS tracking enabled. Start your walk.</string>
+
+    <string name="tracking_walk_working">Tracking walk…</string>
+
+    <!-- Notification channel -->
+    <string name="tracking_notification_channel_id">walk_tracking</string>
+    <string name="tracking_notification_channel_name">Walk tracking</string>
+    <string name="location_image_hint">Location image</string>
+
+</resources>

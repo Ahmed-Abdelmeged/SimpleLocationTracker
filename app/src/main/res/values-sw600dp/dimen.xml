@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="default_padding">24dp</dimen>
+    <dimen name="default_view_margin">12dp</dimen>
+    <dimen name="photo_default_height">300dp</dimen>
+
+</resources>
