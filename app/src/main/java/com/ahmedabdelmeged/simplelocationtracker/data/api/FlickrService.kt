@@ -37,7 +37,7 @@ interface FlickrService {
          * access if someone reverse engineering the apk so better storing it in a C file using NDK.
          * It will be much harder for hackers to access it. I just put here now for simplicity.
          */
-        private const val FLICKR_API_KEY = "054b74b9c8f3a8954faabe08c14d8612"
+        private const val FLICKR_API_KEY = "YOUR_API_KEY"
 
         /**
          * Initialize [FlickrService] lazily as singleton to use on demand. For a production
